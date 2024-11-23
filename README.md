@@ -55,15 +55,7 @@
   </a>
 </p>
 
----
 
-<h3 align="left">📈 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=houssemeddineelimam&show_icons=true&locale=en&layout=compact" alt="houssemeddineelimam" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=houssemeddineelimam&show_icons=true&locale=en" alt="houssemeddineelimam" /></p>
-
----
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
