@@ -46,7 +46,7 @@
   </div>
 
   <!-- Contact Section -->
-  <div align="center" style="margin-top: 20px;">
+  <div align="center" style="margin-top: 20px; display:flex;align-items:center;width:250px;justify-content:space-between;">
     <h3>📫 Connect with Me</h3>
     <p>
       <a href="https://www.linkedin.com/in/houssem-elimam/" target="blank" style="margin: 0 10px;">
