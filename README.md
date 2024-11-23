@@ -57,9 +57,6 @@
     <a href="https://www.mozilla.org/firefox/" target="_blank" style="margin: 0 10px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" alt="Firefox" width="40px">
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Learn/Using_APIs" target="_blank" style="margin: 0 10px;">
-      <img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-api-computer-science-flatart-icons-flat-flatarticons.png" alt="API" width="40px">
-    </a>
   </div>
 </div>
 
