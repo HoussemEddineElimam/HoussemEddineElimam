@@ -53,7 +53,7 @@
         <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTU2MjF3NzdwZXVkbGwzZXYyeDdicXoxN3ppcXAzYnc1eHF5emI5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/HQTYdpx1yhxWpugAi2/giphy.gif" alt="linkedin" height="30" width="40" style="filter: invert(36%) sepia(73%) saturate(3902%) hue-rotate(198deg) brightness(93%) contrast(89%);">
       </a>
       <a href="mailto:houssemelimam.b@gmail.com" target="blank" style="margin: 0 10px;">
-        <img align="center" src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/media/37a62d305ca45e21f00f40adc9016b36.gif" alt="email" height="30" width="40" style="filter: invert(36%) sepia(73%) saturate(3902%) hue-rotate(198deg) brightness(93%) contrast(89%);">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="30" width="40" style="filter: invert(36%) sepia(73%) saturate(3902%) hue-rotate(198deg) brightness(93%) contrast(89%);">
       </a>
     </p>
   </div>
