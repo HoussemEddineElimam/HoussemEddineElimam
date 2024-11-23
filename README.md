@@ -9,7 +9,7 @@
           style="max-width: 100%; border-radius: 5px;">
       </a>
     </h1>
-    <p><strong><code>Junior Software Developer || AI Enthusiast</code></strong></p>
+    <p><strong><code>Junior Software Developer And AI Enthusiast</code></strong></p>
     <p>
       Hello! I'm <strong>Houssem Eddine Elimam</strong>, a passionate developer with experience in the 
       <strong>MERN stack</strong>, <strong>Flutter</strong>, and backend systems. 
