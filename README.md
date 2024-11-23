@@ -4,7 +4,7 @@
     <h1>
       <a href="#">
         <img 
-          src="https://readme-typing-svg.herokuapp.com/?lines=Houssem+Elimam,+Here!+👋+#&center=true&size=30&color=36BCF7"
+          src="https://readme-typing-svg.herokuapp.com/?lines=Houssem+Elimam,+Hello!+👋+#&center=true&size=30&color=36BCF7"
           alt="Typing animation"
           style="max-width: 100%; border-radius: 5px;">
       </a>
